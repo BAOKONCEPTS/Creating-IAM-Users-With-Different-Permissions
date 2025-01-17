@@ -52,8 +52,6 @@ In this assignment, we created IAM users with different permissions and explaine
 - AWS IAM Documentation: https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
 - AWS IAM User Guide: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html
 
-  ## Files
-  - 
-  
+    
 
 
